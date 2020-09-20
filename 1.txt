@@ -21,3 +21,5 @@ BVI1 is down, line protocol is down
 
 
      0 carrier transitions
+
+第二种方案
